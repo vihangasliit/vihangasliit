@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vihangasliit
+- 👋 Hi, I’m Vihanga Pramudith
 - 🌆 I'm currently a 3rd-year undergraduate student at SLIIT.
 - 👀 I’m interested in Web3, Blockchain, Metaverse 
 - 🌱 I’m currently learning ReactJS, React Native, Redux, NodeJS, ExpressJS, SpringBoot, MongoDB...
